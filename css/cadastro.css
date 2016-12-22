@@ -1,0 +1,61 @@
+/* 
+    Document   : cadastro
+    Created on : 19/12/2013, 12:14:17
+    Author     : Roberto
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#conteudoCadastro { 
+    margin-top: 10px;
+    display: block;
+    height: 390px;
+    width: 960px;
+    position: relative;
+    /*background-color: #42c1d9;
+    background-color: #0DE;*/
+    background-color: #2fbcd5;
+}
+
+#conteudoCadastro fieldset{
+    position: absolute;
+    width: 330px;
+    margin: 10px 330px;
+    padding: 0 10px 10px 10px;
+}
+
+#conteudoCadastro h1{
+    color: cadetblue;
+    font-size: 1.8em;
+    text-align: center;
+}
+
+/* Apaguei o legend
+#conteudoCadastro fieldset legend{
+    font-size:20pt;
+    color:#FFF;
+    border: 2pt solid cadetblue;
+    
+}
+*/
+
+label{
+    display: inline-block;
+    width:130px;
+    color:#FFF;
+    font-size: 14pt;
+}
+
+input[type='submit'],input[type='reset']{
+    height: 30px;
+    width: 90px;
+}
+
+.camposSelect{
+	height: 30px;
+}

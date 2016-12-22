@@ -1,0 +1,26 @@
+[22-Aug-2014 19:07:30 America/Fortaleza] PHP Fatal error:  Call to a member function getId() on a non-object in /home/robertog/public_html/eponto/modulos/logado/logado.php on line 25
+[22-Aug-2014 19:07:35 America/Fortaleza] PHP Fatal error:  Call to a member function getId() on a non-object in /home/robertog/public_html/eponto/modulos/logado/logado.php on line 25
+[13-Oct-2014 23:33:39 America/Fortaleza] PHP Fatal error:  Call to a member function getVinculo() on a non-object in /home/robertog/public_html/eponto/modulos/logado/consultaPontos.php on line 18
+[13-Oct-2014 23:33:41 America/Fortaleza] PHP Fatal error:  Call to a member function getId() on a non-object in /home/robertog/public_html/eponto/modulos/logado/entrada.php on line 30
+[13-Oct-2014 23:33:44 America/Fortaleza] PHP Fatal error:  Call to a member function getId() on a non-object in /home/robertog/public_html/eponto/modulos/logado/entradaAlmoco.php on line 23
+[13-Oct-2014 23:33:46 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home/robertog/public_html/eponto/modulos/logado/listaConsultaPontos.php on line 28
+[13-Oct-2014 23:33:46 America/Fortaleza] PHP Fatal error:  Call to a member function converteSegundos() on a non-object in /home/robertog/public_html/eponto/modulos/logado/listaConsultaPontos.php on line 153
+[13-Oct-2014 23:34:29 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home/robertog/public_html/eponto/modulos/logado/listaConsultaPontos.php on line 28
+[13-Oct-2014 23:34:29 America/Fortaleza] PHP Fatal error:  Call to a member function converteSegundos() on a non-object in /home/robertog/public_html/eponto/modulos/logado/listaConsultaPontos.php on line 153
+[13-Oct-2014 23:34:36 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home/robertog/public_html/eponto/modulos/logado/listaPontos.php on line 28
+[13-Oct-2014 23:34:36 America/Fortaleza] PHP Fatal error:  Call to a member function converteSegundos() on a non-object in /home/robertog/public_html/eponto/modulos/logado/listaPontos.php on line 152
+[13-Oct-2014 23:34:40 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home/robertog/public_html/eponto/modulos/logado/listaPontos.php on line 28
+[13-Oct-2014 23:34:40 America/Fortaleza] PHP Fatal error:  Call to a member function converteSegundos() on a non-object in /home/robertog/public_html/eponto/modulos/logado/listaPontos.php on line 152
+[13-Oct-2014 23:34:49 America/Fortaleza] PHP Fatal error:  Call to a member function getId() on a non-object in /home/robertog/public_html/eponto/modulos/logado/logado.php on line 20
+[13-Oct-2014 23:34:56 America/Fortaleza] PHP Fatal error:  Call to a member function getId() on a non-object in /home/robertog/public_html/eponto/modulos/logado/saida.php on line 23
+[13-Oct-2014 23:35:00 America/Fortaleza] PHP Fatal error:  Call to a member function getId() on a non-object in /home/robertog/public_html/eponto/modulos/logado/voltaAlmoco.php on line 25
+[15-Oct-2014 19:29:03 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home/robertog/public_html/eponto/modulos/logado/listaConsultaPontos.php on line 28
+[15-Oct-2014 19:29:03 America/Fortaleza] PHP Fatal error:  Call to a member function converteSegundos() on a non-object in /home/robertog/public_html/eponto/modulos/logado/listaConsultaPontos.php on line 153
+[21-Jan-2015 21:26:44 America/Fortaleza] PHP Fatal error:  Call to a member function getId() on a non-object in /home/robertog/public_html/eponto/modulos/logado/logado.php on line 20
+[15-Feb-2015 20:36:11 America/Fortaleza] PHP Fatal error:  Call to a member function getId() on a non-object in /home/robertog/public_html/eponto/modulos/logado/logado.php on line 20
+[15-Feb-2015 20:36:17 America/Fortaleza] PHP Fatal error:  Call to a member function getId() on a non-object in /home/robertog/public_html/eponto/modulos/logado/logado.php on line 20
+[15-Feb-2015 21:47:31 America/Fortaleza] PHP Fatal error:  Call to a member function getId() on a non-object in /home/robertog/public_html/eponto/modulos/logado/logado.php on line 20
+[15-Feb-2015 21:47:33 America/Fortaleza] PHP Fatal error:  Call to a member function getId() on a non-object in /home/robertog/public_html/eponto/modulos/logado/logado.php on line 20
+[30-Dec-2015 23:22:34 America/Sao_Paulo] PHP Catchable fatal error:  Argument 1 passed to Selects::__construct() must be an instance of PDO, null given, called in /home/robertog/public_html/eponto/modulos/logado/logando.php on line 13 and defined in /home/robertog/public_html/eponto/class/Selects.class.php on line 15
+[30-Dec-2015 23:26:00 America/Sao_Paulo] PHP Notice:  Undefined index: usuario in /home/robertog/public_html/eponto/modulos/logado/logando.php on line 6
+[30-Dec-2015 23:26:00 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/robertog/public_html/eponto/modulos/logado/logando.php on line 7

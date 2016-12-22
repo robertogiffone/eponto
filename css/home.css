@@ -1,0 +1,96 @@
+/* 
+    Document   : home
+    Created on : 19/12/2013, 11:31:13
+    Author     : Roberto
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#topoLogin { 
+    margin-top: 10px;
+    display: block;
+    height: 560px;
+    width: 960px;
+    /*background: url("../img/banner_login.png") no-repeat;*/
+    position: relative;
+    background: -webkit-linear-gradient(#FFF 35%,#2fbcd5 65%); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(#FFF 35%,#2fbcd5 65%); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(#FFF 35%,#2fbcd5 65%); /* For Firefox 3.6 to 15 */
+  	background: linear-gradient(#FFF 35%,#2fbcd5 65%); /* Standard syntax */
+}
+
+#login{
+	position: absolute;
+	width: 300px;
+	height: 250px;
+	margin-top: 130px;
+	margin-left: 330px;
+}
+
+#login fieldset{
+	width: 300px;
+	height: 250px;
+	padding: 0px 10px 10px 10px;
+}
+
+#login h1{
+    color: cadetblue;
+    font-size: 2em;
+    text-align: center;
+}
+
+label{
+    display: inline-block;
+    width: 100px;
+    height: 20px;
+    color: #FFF;
+    font-size: 14pt;
+}
+
+#login p{
+    text-align:center;
+    margin-top: 30px;
+} 
+
+input[type='submit']{
+    height: 30px;
+    width: 90px; 
+}
+
+#login p a{
+    font-size: 14pt;
+}
+
+#rodapeLogin { 
+    color: #FFF;
+    display: block;
+    height: 40px;
+    width: 960px;
+    background: url("../img/rodape.png") repeat-x;
+    position: absolute;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#rodapeLogin p{
+    margin: 10px 0px 10px 0px;
+}
+
+#avisos{
+    position: absolute;
+    width: 960px;
+    margin-bottom: 10px;
+    color: #FFF;
+    font-size: 14pt;
+    margin-top: 420px;
+}
+
+.aviso{
+	color: #F00;
+	font-size: 16pt;
+}

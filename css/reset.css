@@ -1,0 +1,25 @@
+/* 
+    Document   : reset
+    Created on : 16/12/2013, 20:50:38
+    Author     : Roberto
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+  text-decoration: none;  
+}
+
+ul{
+    list-style-type: none;
+}

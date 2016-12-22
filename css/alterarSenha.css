@@ -1,0 +1,49 @@
+/* 
+    Document   : alterarSenha
+    Created on : 21/12/2013, 23:17:33
+    Author     : Roberto
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#conteudoAlterarSenha { 
+    position: relative;
+    margin-top: 10px;
+    display: block;
+    min-height: 257px;
+    width: 960px;
+    background-color: #2fbcd5;
+}
+
+#conteudoAlterarSenha fieldset{
+    position: absolute;
+    width: 395px;
+    margin: 10px 282px;
+    padding: 0 10px 10px 10px;
+}
+
+#conteudoAlterarSenha h1{
+    color: cadetblue;
+    font-size: 1.8em;
+    text-align: center;
+}
+
+label{
+    display: inline-block;
+    width: 200px;
+    color: #FFF;
+    font-size: 1.2em;
+}
+
+input[type='submit'],input[type='reset']{
+    height: 30px;
+    width: 90px;
+}
+
+
+

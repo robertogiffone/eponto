@@ -1,0 +1,1 @@
+[22-Aug-2014 18:51:33 America/Fortaleza] PHP Catchable fatal error:  Argument 1 passed to Selects::__construct() must be an instance of PDO, null given, called in /home/robertog/public_html/eponto/modulos/cadastro/inserindo.php on line 8 and defined in /home/robertog/public_html/eponto/class/Selects.class.php on line 15

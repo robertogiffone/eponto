@@ -1,0 +1,41 @@
+/* 
+    Document   : usuarioComum
+    Created on : 19/12/2013, 12:19:19
+    Author     : Roberto
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+/* Somente em usuários comuns */
+#menuPontos{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 265px;
+    height: 30px;
+    width: 620px;
+    float: left;
+}
+
+#menuPontos ul li{
+    display: inline;
+    float: left;
+    width: 150px;
+    text-align: center;
+    margin-right: 5px;
+    background-color: #5F9EA0; 
+    height: 30px;
+    border-radius: 10px;
+}
+
+
+#menuPontos ul li a{
+	height: 30px;
+    vertical-align: middle;
+    display: block;
+    margin-top: 5px;
+}

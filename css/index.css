@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+.login-box-sem-margem-sup-inf{
+	margin-top: -30px; 
+	margin-bottom: 0;
+}
+
+.aviso{
+	color: #F00;
+}
+
+a{
+	font-size: 1.2em;
+}

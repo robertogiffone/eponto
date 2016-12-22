@@ -1,0 +1,52 @@
+/* 
+    Document   : consultarPontos
+    Created on : 19/01/2014, 15:30:42
+    Author     : Roberto
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+fieldset p{
+    color:#FFF;
+    font-size : 1em;
+}
+/*Fiz tudo isso, pois dá erro na formatação dos dataTables */ 
+#conteudo fieldset label{
+    display: inline-block;
+    color: #FFF;
+    width: 90px;
+    height: 20px;
+    font-size : 1.2em;
+}
+
+input[type='submit'],input[type='reset']{
+    height: 30px;
+    width: 90px;
+}
+
+fieldset{
+    float: left;
+    width: 350px; 
+    margin: 10px 305px;
+    padding: 0px 10px 10px 10px; /* top, right, bottom, left */
+}
+
+fieldset h1{
+    color: #5F9EA0; /* CadetBlue */
+    font-size: 1.8em;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+input[type='text']{
+	width: 30%;
+}
+
+/* Para o usuario de consultar pontos, que só é possível se for administrador */
+input[name='usuario']{
+	width: 66.5%;
+}

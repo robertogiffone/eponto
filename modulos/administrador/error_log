@@ -1,0 +1,13 @@
+[13-Oct-2014 23:35:06 America/Fortaleza] PHP Fatal error:  Call to a member function getPrivilegio() on a non-object in /home/robertog/public_html/eponto/modulos/administrador/administrador.php on line 18
+[13-Oct-2014 23:35:09 America/Fortaleza] PHP Fatal error:  Call to a member function getPrivilegio() on a non-object in /home/robertog/public_html/eponto/modulos/administrador/ativarUsuario.php on line 11
+[13-Oct-2014 23:36:32 America/Fortaleza] PHP Fatal error:  Call to a member function getPrivilegio() on a non-object in /home/robertog/public_html/eponto/modulos/administrador/usuarios.php on line 14
+[13-Oct-2014 23:36:37 America/Fortaleza] PHP Fatal error:  Call to a member function getPrivilegio() on a non-object in /home/robertog/public_html/eponto/modulos/administrador/desativarUsuario.php on line 12
+[13-Oct-2014 23:36:41 America/Fortaleza] PHP Fatal error:  Call to a member function getPrivilegio() on a non-object in /home/robertog/public_html/eponto/modulos/administrador/consultarPontos.php on line 20
+[13-Oct-2014 23:36:43 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home/robertog/public_html/eponto/modulos/administrador/listaConsultarPontos.php on line 27
+[13-Oct-2014 23:36:45 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home/robertog/public_html/eponto/modulos/administrador/listaPontos.php on line 22
+[13-Oct-2014 23:36:48 America/Fortaleza] PHP Fatal error:  Call to a member function getPrivilegio() on a non-object in /home/robertog/public_html/eponto/modulos/administrador/usuarios.php on line 14
+[13-Oct-2014 23:36:52 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home/robertog/public_html/eponto/modulos/administrador/listaPontos.php on line 22
+[13-Oct-2014 23:36:54 America/Fortaleza] PHP Fatal error:  Call to a member function getPrivilegio() on a non-object in /home/robertog/public_html/eponto/modulos/administrador/usuarios.php on line 14
+[15-Feb-2015 20:36:13 America/Fortaleza] PHP Fatal error:  Call to a member function getId() on a non-object in /home/robertog/public_html/eponto/modulos/administrador/editarUsuario.php on line 40
+[30-Dec-2015 23:27:00 America/Sao_Paulo] PHP Notice:  Undefined variable: query in /home/robertog/public_html/eponto/class/Selects.class.php on line 267
+[30-Dec-2015 23:28:02 America/Sao_Paulo] PHP Notice:  Undefined variable: query in /home/robertog/public_html/eponto/class/Selects.class.php on line 267
